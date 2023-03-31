@@ -4,3 +4,4 @@
 GitHub Projects,Issues 실습
 
 커밋 메세지에 이슈 연결하기
+이슈 번호 잘못 연결..!
